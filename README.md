@@ -2,7 +2,7 @@
 =====
 
 学习编写readme，文本下面是=会代表这行会是一个大标题，等于号的个数无限制
-=
+==
 
 文本下面是----表示中标题，个数没有限制
 -----
@@ -69,7 +69,14 @@ Tab 按键会有如下的显示效果
  
  ![](https://github.com/kickcodeman/Readme/blob/master/pics/11790.jpg)
  ![](https://github.com/kickcodeman/Readme/blob/master/pics/19302.jpg)
- ![](https://github.com/kickcodeman/Readme/blob/master/pics/92776.jpg)
+  ![](https://github.com/kickcodeman/Readme/blob/master/pics/92776.jpg)
+  
+ 点击图片进行超链接，如下所示：
+ [![谷歌]]（www.google.com）
+ [谷歌](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+ 
+ 
+
 
  
  
