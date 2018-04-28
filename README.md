@@ -61,7 +61,7 @@ Tab 按键会有如下的显示效果
  插入图片
  ===
  
- 格式“![]()”括号中写的是图片的 url 同时还可以在括号里面添加双引号鼠标移动到图片会有提示效果
+ 如下格式括号中写的是图片的 url 同时还可以在括号里面添加双引号鼠标移动到图片会有提示效果
  
  ![Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png "谷歌 logo")
  
