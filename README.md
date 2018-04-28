@@ -80,7 +80,7 @@ Tab 按键会有如下的显示效果,添加两个 Tab 按键
  ===
  
 | 表头1  | 表头2|
-| ------------- | ------------- |
+| ------------- | ------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
  
