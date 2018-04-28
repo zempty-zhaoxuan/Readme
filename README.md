@@ -76,6 +76,10 @@ Tab 按键会有如下的显示效果
  [谷歌]:https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png "点击进入谷歌"
  
  
+ [![baidu]](http://baidu.com)  
+[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo" 
+ 
+ 
 
 
  
