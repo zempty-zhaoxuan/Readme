@@ -66,10 +66,6 @@ Tab 按键会有如下的显示效果,添加两个 Tab 按键
  
  把图片提交到 GitHub 的仓库以后在 README.md 显示，括号里面的地址是在仓库里面打开图片在浏览器里显示的地址
  
- ![](https://github.com/kickcodeman/Readme/blob/master/pics/11790.jpg)
- 
- ![](https://github.com/kickcodeman/Readme/blob/master/pics/19302.jpg)
- 
  ![](https://github.com/kickcodeman/Readme/blob/master/pics/92776.jpg)
   
  点击图片进行超链接，如下所示：
