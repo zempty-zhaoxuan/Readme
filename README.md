@@ -65,6 +65,14 @@ Tab 按键会有如下的显示效果
  
  ![Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png "谷歌 logo")
  
+ 把图片提交到 GitHub 的仓库以后在 README.md 显示，括号里面的地址是在仓库里面打开图片在浏览器里显示的地址
+ 
+ ![](https://github.com/kickcodeman/Readme/blob/master/pics/11790.jpg)
+ ![](https://github.com/kickcodeman/Readme/blob/master/pics/19302.jpg)
+ ![](https://github.com/kickcodeman/Readme/blob/master/pics/92776.jpg)
+
+ 
+ 
  
 
 
