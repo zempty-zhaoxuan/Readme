@@ -95,7 +95,7 @@ Tab 按键会有如下的显示效果,添加两个 Tab 按键
 ![Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png) | 这是 Google 的 Logo. 
 
 
-添加视频
+添加视频链接
 ====
 这种方法添加视频跟添加图片链接的方式相同,点击链接到视频：</br>
 
