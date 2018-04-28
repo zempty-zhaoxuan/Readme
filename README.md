@@ -85,13 +85,19 @@ Tab 按键会有如下的显示效果,添加两个 Tab 按键
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
  
- 
+ 靠左，居中，靠右:</br>
  
  | 靠左| 居中 | 靠右 |
  | :--- | :---: | ---: |
  | 123 | 456 | 7890 |
  | 12345 | 789000 | 098765|
  | 762hdgkj | tyqiutyqoieu | hgjagkjan |
+ 
+在表格中插入图片：</br>
+
+| 图片 | 描述|
+| ---- | -----|
+![Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png | 这是 Google 的 Logo. 
  
 
  
