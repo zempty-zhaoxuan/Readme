@@ -85,10 +85,13 @@ Tab 按键会有如下的显示效果,添加两个 Tab 按键
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
  
- | hello | world |
- |--- |---|
- |12311111111|4561111111111|
- |78911111|000|
+ 
+ 
+ | 靠左| 居中 | 靠右 |
+ | :--- | :---: | ---: |
+ | 123 | 456 | 7890 |
+ | 12345 | 789000 | 098765|
+ | 762hdgkj | tyqiutyqoieu | hgjagkjan |
  
 
  
