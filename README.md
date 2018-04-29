@@ -99,8 +99,8 @@ Tab 按键会有如下的显示效果,添加两个 Tab 按键
 ====
 这种方法添加视频跟添加图片链接的方式相同,点击链接到视频：</br>
 
-[![ 相声 ](https://i.ytimg.com/an_webp/ow-b6W6qYF8/mqdefault_6s.webp?du=3000&sqp=CLCOktcF&rs=AOn4CLCBNgEU4ReLcaCjQfX9xC9aAIkBPg)](https://youtu.be/ow-b6W6qYF8)
- 
+[![ 相声 ]( https://i.ytimg.com/vi/mfoqAvCbBQQ/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLACsYStHHPgsb9K09z97liH2BzKcQ)](https://youtu.be/ow-b6W6qYF8)
+
 
 
  
