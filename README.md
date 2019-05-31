@@ -102,6 +102,26 @@ Tab 按键会有如下的显示效果,添加两个 Tab 按键
 [![](https://github.com/kickcodeman/Readme/blob/master/pics/92776.jpg)](https://youtu.be/ow-b6W6qYF8 "点击会进行视频链接")
 
 
+#### 下面的用法可以把内容进行区域化，
+```
+爱情是理解和体贴的别名。
+——泰戈尔
+```
+
+#### 这个通常用在代码上面 
+```cpp
+System.out.prinltn("hello world");
+```
+
+#### 字体加粗
+你好这是一个**残酷**的世界
+
+#### 字体斜体
+你好这是一个*残酷*的世界
+
+#### 字体高亮
+你好这是一个`残酷`的世界
+
 
  
  
