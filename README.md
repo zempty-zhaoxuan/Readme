@@ -154,3 +154,14 @@ System.out.prinltn("hello world");
 [![](https://github.com/kickcodeman/Readme/blob/master/pics/92776.jpg)](https://youtu.be/ow-b6W6qYF8 "点击会进行视频链接")
 
 
+
+
+### 添加选框
+
+-[x] 这是测试一，被选中了
+-[] 这是测试二，没被选中
+-[] 这是测试三，没被选中
+-[x] 这是测试四，选中了
+
+
+
